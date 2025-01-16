@@ -1,3 +1,4 @@
+// Note: This solution is using recursive approach, we can also use level order traversal for iterative solution.
 // Basic
 // 1. Learn about Binary Tree and types of Binary Tree.
 // 2. Learn about preorder, inorder and post order traversal
